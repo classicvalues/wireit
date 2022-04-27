@@ -38,7 +38,7 @@
         "../schema.json"
       ],
       "output": [
-        "./schema.json"
+        "schema.json"
       ],
       "command": "cp ../schema.json ./schema.json"
     },
