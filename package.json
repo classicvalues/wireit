@@ -209,7 +209,7 @@
     }
   },
   "devDependencies": {
-    "@types/node": "^17.0.23",
+    "@types/node": "^18.0.3",
     "@typescript-eslint/eslint-plugin": "^5.17.0",
     "@typescript-eslint/parser": "^5.17.0",
     "cmd-shim": "^5.0.0",
